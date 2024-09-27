@@ -132,7 +132,8 @@ iframe
 }
 .col-1, .col-1-wrap
 {
-	background: var(--color1);
+/* 	background: var(--color1); */
+	background: white;
 }
 body, .col-2, .col-2-wrap
 {
